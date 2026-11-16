@@ -1,0 +1,4 @@
+:root{--bg:#0b0b0d;--fg:#ececec;--muted:#9a9a9a;--red:#e0201b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.7 "Malgun Gothic","Apple SD Gothic Neo",sans-serif}
+main{max-width:720px;margin:0 auto;padding:48px 16px}a{color:var(--fg)}h1{font-size:28px;margin:0 0 8px}
+.brand b{color:var(--red)}.muted{color:var(--muted)}nav a{margin-right:16px;color:var(--muted)}footer{margin-top:48px;color:var(--muted);font-size:14px}
